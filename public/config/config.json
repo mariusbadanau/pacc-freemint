@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0xEC151A080cbCfb492C7bC1cf8DaC606491Fe912c",
+  "SCAN_LINK": "https://bscscan.com/token/0xEC151A080cbCfb492C7bC1cf8DaC606491Fe912c",
+  "ADD_POLYGON": "https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain",
+  "NETWORK": {
+    "NAME": "Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Prime Ape Crypto Club",
+  "SYMBOL": "PACC",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Element.Market",
+  "TWITEER": "Twitter",
+  "MARKETPLACE_LINK": "https://element.market/collections/prime-ape-crypto-club",
+  "TWITEER_LINK": "https://twitter.com/PrimeApeCrypto",
+  "SHOW_BACKGROUND": false
+}
